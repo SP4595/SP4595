@@ -4,13 +4,11 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly exp
 
 ## About Me
 
-- 🔭 I’m currently working on [Project XYZ](https://github.com/SP4595/ProjectXYZ)
 - 🌱 I’m currently learning advanced machine learning techniques and cloud computing
 - 👯 I’m looking to collaborate on open source projects related to AI and data science
 - 🤔 I’m looking for help with improving my skills in Kubernetes and Docker
 - 💬 Ask me about Python, JavaScript, or any tech-related stuff
-- 📫 How to reach me: [Email](mailto:SP4595@example.com)
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: [Email](122090249@link.cuhk.edu.cn)
 - ⚡ Fun fact: I love hiking and photography
 
 ## My GitHub Stats
