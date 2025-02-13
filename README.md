@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm SP4595 👋
 
-<!--
-**SP4595/SP4595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology and constantly exploring new ways to solve problems and create innovative solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Project XYZ](https://github.com/SP4595/ProjectXYZ)
+- 🌱 I’m currently learning advanced machine learning techniques and cloud computing
+- 👯 I’m looking to collaborate on open source projects related to AI and data science
+- 🤔 I’m looking for help with improving my skills in Kubernetes and Docker
+- 💬 Ask me about Python, JavaScript, or any tech-related stuff
+- 📫 How to reach me: [Email](mailto:SP4595@example.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love hiking and photography
+
+## My GitHub Stats
+
+![SP4595's GitHub stats](https://github-readme-stats.vercel.app/api?username=SP4595&show_icons=true&theme=radical)
+
+## My Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SP4595&layout=compact&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/mingcong-lei/)
+- [Personal Website](https://sp4595.github.io/)
+
+
+Thanks for visiting my profile, and I hope you have a great day! 😊
